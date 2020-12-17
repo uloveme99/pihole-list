@@ -53,13 +53,13 @@
 0.0.0.0	codm.onelink.me
 0.0.0.0	console.worldoftanks.com
 0.0.0.0	contra.garena.tw
-0.0.0.0	Crapl.io
+0.0.0.0	crapl.io
 0.0.0.0	crazysteve.io
 0.0.0.0	crycash.io
 0.0.0.0	cryptozombies.io
 0.0.0.0	cursors.io
 0.0.0.0	custom-cursor.com
-0.0.0.0	Deeeep.io
+0.0.0.0	deeeep.io
 0.0.0.0	deemo.io
 0.0.0.0	defly.io
 0.0.0.0	diep.io
